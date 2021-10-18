@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\almoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Ali Mohamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\almoh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\almoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Ali Mohamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\almoh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\almoh\\Documents\\dev_projects\\tuts\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -114,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
