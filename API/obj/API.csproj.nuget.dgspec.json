@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\API\\API.csproj": {}
+    "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\API\\API.csproj": {
+    "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Ali Mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\API\\obj\\",
+        "outputPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -85,12 +87,14 @@
         "outputPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -144,12 +148,14 @@
         "outputPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -196,12 +202,14 @@
         "outputPath": "C:\\Users\\Ali Mohamed\\projects_ali_mohamud\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ali Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
